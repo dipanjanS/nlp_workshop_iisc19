@@ -1,4 +1,5 @@
-# IISC NLP Workshop - 2019  ![](https://i.imgur.com/edNpRy7.png)
+![](https://i.imgur.com/edNpRy7.png)
+# IISC NLP Workshop - 2019  
 
 
 Contains all tutorials and hands-on examples for the IISC 2019 NLP Workshop. Use the following button to open the repo in google colab
